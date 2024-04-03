@@ -8,7 +8,7 @@ a miniprot to the fasta generator that will take the alignment file in the PAF f
    miniprot --gff genome.fasta protein.fasta > sample.gff
 
 ```
- ** and then run the corresponding python code **
+ **and then run the corresponding python code **
 
 Gaurav Sablok
 Academic Staff Member
