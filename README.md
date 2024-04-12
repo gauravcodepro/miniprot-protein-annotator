@@ -1,6 +1,6 @@
 # miniprot-protein-annotations
 
-- a miniprot to the fasta generator that will take the alignment file in the PAF/GFF format and will generate the fasta from the corresponding fasta files for the aligned regions.
+- a protein coding regions annotator that will take the alignment file in the PAF/GFF format and will generate the fasta from the corresponding fasta files for the aligned regions.
 - implemented faster rates so that you can parse as many aligned regions as you want.
 - you can also create the protein tokenzier from the same for machine learning.
 
