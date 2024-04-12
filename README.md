@@ -8,7 +8,7 @@
  # align your genome with the given protein  using the miniprot such as 
    miniprot --gff genome.fasta protein.fasta > sample.gf
 ```
- - and then run the proteinannotator to extract all the complete coding regions *
+ - and then run the proteinannotator to extract all the complete coding regions 
  ```
 generatingAlignments("/home/gaurav/Desktop/final_code_push/multi.gff", 
                         "/home/gaurav/Desktop/final_code_push/multi.fasta", 
