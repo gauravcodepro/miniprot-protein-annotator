@@ -5,10 +5,10 @@
 - you can also create the protein tokenzier from the same for machine learning.
 
 ```
- # align your sample with the given protein sample using the miniprot such as 
+ # align your genome with the given protein  using the miniprot such as 
    miniprot --gff genome.fasta protein.fasta > sample.gf
 ```
- **and then run the corresponding python code **
+ **and then run the proteinannotator to extract all the complete coding regions **
  ```
 generatingAlignments("/home/gaurav/Desktop/final_code_push/multi.gff", 
                         "/home/gaurav/Desktop/final_code_push/multi.fasta", 
